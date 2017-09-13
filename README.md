@@ -7,7 +7,8 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of information, resources and tools about Open Science, Open Access and Open Research Data 🔬‍ 💻 📥.
+A curated list of information, resources and tools about Open Science, Open Access and Open Research Data 🔬‍ 💻.
+<br>
 Entries marked with ✨ are especially recommended by the author.
 <br>
 
