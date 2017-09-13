@@ -14,6 +14,7 @@ Entries marked with ✨ are especially recommended by the author.
 
 ## Contents
 - [Introduction](#Introduction)
+- [Citizen Science](#citizen-science)
 - [Events](#events)
 - [Licenses](#licenses)
 - [Open Access](#open-access)
@@ -23,17 +24,20 @@ Entries marked with ✨ are especially recommended by the author.
 - [Research Data Management](#research-data-management)
 - [Tools](#tools)
 
+
 ## Introduction
 
 - [FOSTER](https://www.fosteropenscience.eu/) - An e-learning platform featuring material over a wide range of topics including RDM, Open Access & Open Data. EU funded as part of Horizon 2020. ✨
 - Wikipedia article on [Open Science](https://en.wikipedia.org/wiki/Open_science)
 - Wikipedia article on [Open Access](https://en.wikipedia.org/wiki/Open_access)
 
+## Citizen Science
+
+There is a separate awesome list specifically about Citizen Science: [Citizen Science List](https://github.com/dylanrees/citizen-science)
 
 ## Events
 
 - [Open Access Days](open-access.net/community/open-access-tage/) - Annually meeting, organized by German, Swiss and Austrian universities and libraries. Features keynotes & workshops mostly in German.
-- [Radical Open Access Conference](https://radicalopenaccess.disruptivemedia.org.uk/)
 
 ## Licenses
 - [CC0 - Public Domain](https://creativecommons.org/publicdomain/zero/1.0/) ✨
@@ -60,3 +64,5 @@ Entries marked with ✨ are especially recommended by the author.
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Maurice Schleußinger](https://schleussinger.com) has waived all copyright and related or neighboring rights to this work.
+
+[back to top](#contents) 💨
