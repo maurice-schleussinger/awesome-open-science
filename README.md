@@ -11,6 +11,8 @@ A curated list of information, resources and tools about Open Science, Open Acce
 Entries marked with ✨ are especially recommended by the author.
 <br>
 
+Contributions are very welcome. Please check the [Contribution Guidelines](contributing.md) before submitting a pull request. 👌
+
 ## Contents
 - [Introduction](#Introduction)
 - [Events](#events)
