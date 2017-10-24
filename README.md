@@ -9,7 +9,7 @@
 
 A curated list of information, resources and tools about Open Science, Open Access and Open Research Data 🔬‍ 💻.
 <br>
-Entries marked with ✨ are especially recommended by the author. Resources in other language than English are marked with the corresponding flag 🇩🇪.
+Entries marked with ✨ are especially recommended by the author. Resources in other languages than English are marked with the corresponding flag 🇩🇪.
 <br>
 
 Contributions are very welcome. Please check the [Contribution Guidelines](contributing.md) before submitting a pull request. 👌
@@ -53,14 +53,15 @@ There is a separate awesome list specifically about Citizen Science: [Citizen Sc
 ## Open Data
  
 ## Persistent Identifier
-- [*DOI*](https://doi.org/) - 
+- [*DOI*](https://doi.org/) - The most common persistent document identifier ✨
 - [*ORCHID*](https://orcid.org/) - Unique Author Identification. ✨
 
 ## Research Data Management
 - [*Research Data Management - E-learning platform*](http://www.researchdatamanagement.ch/) 🇩🇪 🇫🇷 ✨
+- [*forschungsdaten.info*](https://www.forschungsdaten.info) - The growing information platform for everything RDM 🇩🇪
 
 ## Tools 
-- https://oadoi.org/faq
+- [*oaDOI*] (https://oadoi.org/faq) - Find open-access versions of papers
 
 ## License
 
