@@ -15,23 +15,21 @@ Entries marked with ✨ are especially recommended by the author. Resources in o
 Contributions are very welcome. Please check the [Contribution Guidelines](contributing.md) before submitting a pull request. 👌
 
 ## Contents
-- [Introduction](#Introduction)
-- [Citizen Science](#citizen-science)
-- [Events](#events)
-- [Licenses](#licenses)
-- [Open Access](#open-access)
-    + [Meta data Formats](meta-data-formats)
-- [Open Data](#open-data)
-- [Persistent Identifier](#persistent-identifier)
-- [Research Data Management](#research-data-management)
-- [Tools](#tools)
+* [Introduction](#Introduction)
+* [Citizen Science](#citizen-science)
+* [Events](#events)
+* [Licenses](#licenses)
+* [Open Access](#open-access)
+* [Persistent Identifier](#persistent-identifier)
+* [Repository Software](#repository-software)
+* [Tools](#tools)
 
 
 ## Introduction
 
-- [FOSTER](https://www.fosteropenscience.eu/) - An e-learning platform featuring material over a wide range of topics including RDM, Open Access & Open Data. EU funded as part of Horizon 2020. ✨
-- Wikipedia article on [Open Science](https://en.wikipedia.org/wiki/Open_science)
-- Wikipedia article on [Open Access](https://en.wikipedia.org/wiki/Open_access)
+* [FOSTER](https://www.fosteropenscience.eu/) - An e-learning platform featuring material over a wide range of topics including RDM, Open Access & Open Data. EU funded as part of Horizon 2020. ✨
+* Wikipedia article on [Open Science](https://en.wikipedia.org/wiki/Open_science)
+* Wikipedia article on [Open Access](https://en.wikipedia.org/wiki/Open_access)
 
 ## Citizen Science
 
@@ -39,31 +37,46 @@ There is a separate awesome list specifically about Citizen Science: [Citizen Sc
 
 ## Events
 
-- [Open Access Days](open-access.net/community/open-access-tage/) - Annually meeting, organized by German, Swiss and Austrian universities and libraries. Features keynotes & workshops mostly in German.
+* [Open Access Days](open-access.net/community/open-access-tage/) - Annually meeting, organized by German, Swiss and Austrian universities and libraries. Features keynotes & workshops mostly in German.
 
 ## Licenses
-- [CC0 - Public Domain](https://creativecommons.org/publicdomain/zero/1.0/) ✨
-- [CC BY - CC with Attribution](https://creativecommons.org/licenses/by/4.0/) 
+* [CC0 - Public Domain](https://creativecommons.org/publicdomain/zero/1.0/) ✨
+* [CC BY - CC with Attribution](https://creativecommons.org/licenses/by/4.0/) 
 
 ## Open Access
-- [BASE](https://www.base-search.net/) - 
+* [BASE](https://www.base-search.net/) - 
 
+## Organizations
+* [*Research Data Alliance*](https://www.rd-alliance.org/)
+* [*Open Knowledge Foundation*](https://okfn.org/) - An independent organization pushing open access to knowledge in all areas of life
+* [*DINI*](https://dini.de/startseite/) - non-profit association 🇩🇪
 
-
-## Open Data
  
 ## Persistent Identifier
-- [*DOI*](https://doi.org/) - The most common persistent document identifier ✨
-- [*ORCHID*](https://orcid.org/) - Unique Author Identification. ✨
+* [*DOI*](https://doi.org/) - The most common persistent document identifier ✨
+* [*ORCHID*](https://orcid.org/) - Unique Author Identification. ✨
 
 ## Research Data Management
-- [*Research Data Management - E-learning platform*](http://www.researchdatamanagement.ch/) 🇩🇪 🇫🇷 ✨
-- [*forschungsdaten.info*](https://www.forschungsdaten.info) - The growing information platform for everything RDM 🇩🇪
+* [*Research Data Management - E-learning platform*](http://www.researchdatamanagement.ch/) 🇩🇪 🇫🇷 ✨
+* [*forschungsdaten.info*](https://www.forschungsdaten.info) - The growing information platform for everything RDM 🇩🇪
+
+## Repository Software
+* [*imeji*](https://github.com/imeji-community/imeji/)
+* [*Dspace*](http://www.dspace.org/)
+* [*Fedora Repository*](http://fedorarepository.org/)
+* [*Hyku*](https://github.com/samvera-labs/hyku)
+
+## Services
+* [RADAR](https://www.radar-service.eu) - Research Data Repository as a service (provided by the [*TIB*](http://tib.eu/))
+
+## Examples 
+
+* [Edmond](http://edmond.mpdl.mpg.de/imeji/) 
+* [DepositOnce](https://depositonce.tu-berlin.de/)
 
 ## Tools 
-- [*oaDOI*] (https://oadoi.org/faq) - Find open-access versions of papers
+* [*oaDOI*](https://oadoi.org/faq) - Find open-access versions of papers
 
-## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
