@@ -19,38 +19,54 @@ Contributions are very welcome. Please check the [Contribution Guidelines](contr
 
 ## Contents
 
-* [Information and Guides 🧐](#information-and-guides)
-* [Events 📅](#events)
-* [Organizations 👫](#organizations)
-* [Repositories 🗄](#repositories)
-* [Systems and Standards ☝️](#systems-and-standards)
-* [Tools 💻](#tools)
+* [Information and Guides](#information-and-guides)
+    - [General](#general)
+    - [Research Data](#research-data)
+    - [Find Open Science Content](#find-open-science-content)
+* [Events](#events)
+* [Organizations](#organizations)
+* [Repositories](#repositories)
+    - [Multidisciplinary](#multidisciplinary)
+* [Systems and Standards](#systems-and-standards)
+   - [Licenses](#licenses)
+    - [Persistent Identifier](#persistent-identifier) 
+* [Tools](#tools)
 * [More](#more)
 
 
-## Information and Guides  🧐
+## Information and Guides
 
+### General
 * [Wikipedia article Open Science](https://en.wikipedia.org/wiki/Open_science)
 * [Wikipedia article Open Access](https://en.wikipedia.org/wiki/Open_access)
- [Research Data Management](http://www.researchdatamanagement.ch/) - E-learning platform about research data management 🇩🇪 🇫🇷 ✨
-* [forschungsdaten.info](https://www.forschungsdaten.info) - The growing information platform for everything RDM in Germany. 🇩🇪
-* [FOSTER](https://www.fosteropenscience.eu/) - An e-learning platform featuring material over a wide range of topics including RDM, Open Access & Open Data. EU funded as part of Horizon 2020. ✨
+* [FOSTER](https://www.fosteropenscience.eu/) - An e-learning platform featuring material over a wide range of topics including RDM, Open Access & Open Data. Funded by the [European Commission](https://ec.europa.eu/commission/index_en) as part of Horizon 2020. ✨
 
-## Events 📅
+### Research Data
+* [Research Data Management](http://www.researchdatamanagement.ch/) - E-learning platform about research data management 🇩🇪 🇫🇷 ✨
+* [forschungsdaten.info](https://www.forschungsdaten.info) - The growing information platform for everything RDM in Germany. 🇩🇪
+
+### Find Open Science Content
+* [Directory of Open Access Journals](https://doaj.org/) - DOAJ is a community-curated online directory that indexes and provides access to high quality, open access, peer-reviewed journals. Over 3 mio. articles from over 11 000 journals.
+* [Registry of Research Data Repositories](https://www.re3data.org/) - By offering detailed information on more than 2,000 research data repositories, re3data has become the most comprehensive source of reference for research data infrastructures globally.
+
+## Events
 
 * [Open Access Days](open-access.net/community/open-access-tage/) - Annually meeting, organized by German, Swiss and Austrian universities and libraries. Features keynotes & workshops mostly in German.
 
-## Organizations 👫
+## Organizations
 
 * [Horizon 2020](https://ec.europa.eu/programmes/horizon2020/) - Horizon 2020 is the biggest EU Research and Innovation programme ever with nearly €80 billion of funding available over 7 years (2014 to 2020).
 * [Open Knowledge Foundation](https://okfn.org/) - An independent organization pushing open access to knowledge in all areas of life
 * [DINI](https://dini.de/startseite/) - non-profit association 🇩🇪
 
-## Repositories 🗄
+## Repositories
 
+### Multidisciplinary
 * [Zenodo](https://zenodo.org/) - Awesome repository for all kinds of Open Research including datasets up to 50GB and free DOIs. Funded by the [CERN](https://home.cern/) and [European Commission](https://ec.europa.eu/commission/index_en).✨
+* [Data Dryad](https://datadryad.org/) - Nonprofit, curated repository for publications and accompanying research data. Upload data sets up to 20GB free of [charge](https://datadryad.org/pages/payment) and get free DOIs. Funded by [U.S. National Science Foundation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1564925), the [European Commission](https://ec.europa.eu/commission/index_en) and the [Center for Open Science](https://cos.io/).
+* [Open Science Framework](https://osf.io/) - Open Access to research project over the entire research life cycle. Uses third-party storage such as Dropbox or Github as well as internal storage. Upload data sets up to 5GB (internal storage) and assign free DOIs. Funded by the [Center for Open Science](https://cos.io/).
 
-## Systems and Standards ☝️
+## Systems and Standards
 
 ### Licenses
 * [Creative Commons](https://creativecommons.org) - Licences for all kind of open content including publications, educational resources and research data. Not for computer code. ✨
@@ -59,7 +75,7 @@ Contributions are very welcome. Please check the [Contribution Guidelines](contr
 * [DOI](https://doi.org/) - The most common persistent document identifier ✨
 * [ORCHID](https://orcid.org/) - Unique Author Identification. ✨
 
-## Tools 💻
+## Tools
 * [*oaDOI*](https://oadoi.org/faq) - Find open-access versions of papers
 
 ## More 
