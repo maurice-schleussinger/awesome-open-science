@@ -37,6 +37,9 @@ Contributions are very welcome. Please check the [Contribution Guidelines](contr
 ## Information and Guides
 
 ### General
+
+* [The Open Definition](https://opendefinition.org/) - Defining what openness is. ✨
+* [Open Science Manifesto](https://ocsdnet.org/manifesto/open-science-manifesto/)
 * [Wikipedia article Open Science](https://en.wikipedia.org/wiki/Open_science)
 * [Wikipedia article Open Access](https://en.wikipedia.org/wiki/Open_access)
 * [FOSTER](https://www.fosteropenscience.eu/) - An e-learning platform featuring material over a wide range of topics including RDM, Open Access & Open Data. Funded by the [European Commission](https://ec.europa.eu/commission/index_en) as part of Horizon 2020. ✨
@@ -65,11 +68,24 @@ Contributions are very welcome. Please check the [Contribution Guidelines](contr
 * [Zenodo](https://zenodo.org/) - Awesome repository for all kinds of Open Research including datasets up to 50GB and free DOIs. Funded by the [CERN](https://home.cern/) and [European Commission](https://ec.europa.eu/commission/index_en).✨
 * [Data Dryad](https://datadryad.org/) - Nonprofit, curated repository for publications and accompanying research data. Upload data sets up to 20GB free of [charge](https://datadryad.org/pages/payment) and get free DOIs. Funded by [U.S. National Science Foundation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1564925), the [European Commission](https://ec.europa.eu/commission/index_en) and the [Center for Open Science](https://cos.io/).
 * [Open Science Framework](https://osf.io/) - Open Access to research project over the entire research life cycle. Uses third-party storage such as Dropbox or Github as well as internal storage. Upload data sets up to 5GB (internal storage) and assign free DOIs. Funded by the [Center for Open Science](https://cos.io/).
+* [Data.gov](https://www.data.gov/) - The Open Data portal of the United States. ✨
+* [World Bank Open Data](https://data.worldbank.org/) - Global development data.
+
+### Discipline-specific
+* [GenBank](https://www.ncbi.nlm.nih.gov/) - An annotated collection of all publicly available DNA sequences.
+* [UniProt](https://academic.oup.com/nar/article/43/D1/D204/2439939) - Collection of protein sequences and their annotations.
+* [SIMBAD](http://simbad.u-strasbg.fr/simbad/) - Astronomical Database.
+* [CiteAb](https://www.citeab.com/) - An antibody search engine.
+[ICLAD](http://iclac.org/) - The International Cell Line Authentication Committee.
+* [SEEK](https://bmcsystbiol.biomedcentral.com/articles/10.1186/s12918-015-0174-y) - A systems biology data and model management platform.
+[Datastro.eu](https://www.datastro.eu/pages/home/)- An open data portal with data about astronomy.
 
 ## Systems and Standards
 
 ### Licenses
+* [A short lecture on Open Licensing](https://doi.org/10.6084/m9.figshare.4516892.v1)
 * [Creative Commons](https://creativecommons.org) - Licences for all kind of open content including publications, educational resources and research data. Not for computer code. ✨
+* [Choose an open source license](https://choosealicense.com/) - Pick a suitable license for your code ✨
 
 ### Persistent Identifier
 * [DOI](https://doi.org/) - The most common persistent document identifier ✨
