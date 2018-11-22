@@ -29,7 +29,7 @@ Contributions are very welcome. Please check the [Contribution Guidelines](contr
     - [Multidisciplinary](#multidisciplinary)
 * [Systems and Standards](#systems-and-standards)
    - [Licenses](#licenses)
-    - [Persistent Identifier](#persistent-identifier) 
+   - [Persistent Identifier](#persistent-identifier) 
 * [Tools](#tools)
 * [More](#more)
 
@@ -88,11 +88,14 @@ Contributions are very welcome. Please check the [Contribution Guidelines](contr
 * [Choose an open source license](https://choosealicense.com/) - Pick a suitable license for your code ✨
 
 ### Persistent Identifier
-* [DOI](https://doi.org/) - The most common persistent document identifier ✨
+* [DOI](https://doi.org/) - The most common persistent document identifier. ✨
 * [ORCHID](https://orcid.org/) - Unique Author Identification. ✨
 
 ## Tools
-* [*oaDOI*](https://oadoi.org/faq) - Find open-access versions of papers
+* [oaDOI](https://oadoi.org/faq) - Find open-access versions of papers.
+* [Recommended Tools by the RDA](https://www.rd-alliance.org/group/preservation-tools-techniques-and-policies/wiki/tools-available-researchers-0) - The Research Data Alliance lists a number of tools similar to this overview.
+* [Awesome Research List on Github](https://github.com/emptymalei/awesome-research) - An overview of useful tools for (open) research in a similar fashion to this list.
+* [Overleaf](https://www.overleaf.com) - Create papers in LaTeX with colleagues online. ✨
 
 ## More 
 * There is a separate awesome list specifically about Citizen Science: [Citizen Science List](https://github.com/dylanrees/citizen-science)
