@@ -50,7 +50,8 @@ Contributions are very welcome. Please check the [Contribution Guidelines](contr
 
 ### Find Open Science Content
 * [Directory of Open Access Journals](https://doaj.org/) - DOAJ is a community-curated online directory that indexes and provides access to high quality, open access, peer-reviewed journals. Over 3 mio. articles from over 11 000 journals.
-* [Registry of Research Data Repositories](https://www.re3data.org/) - By offering detailed information on more than 2,000 research data repositories, re3data has become the most comprehensive source of reference for research data infrastructures globally.
+* [Registry of Research Data Repositories](https://www.re3data.org/) - By offering detailed information on more than 2,000 research data repositories, Re3data has become the most comprehensive source of reference for research data infrastructures globally.
+* [B2Find (EOSC)](http://b2find.eudat.eu/) - Search over 690,000 datasets from European research as well as external datasets.
 
 ## Events
 
@@ -84,7 +85,7 @@ Contributions are very welcome. Please check the [Contribution Guidelines](contr
 
 ### Licenses
 * [A short lecture on Open Licensing](https://doi.org/10.6084/m9.figshare.4516892.v1)
-* [Creative Commons](https://creativecommons.org) - Licences for all kind of open content including publications, educational resources and research data. Not for computer code. ✨
+* [Creative Commons](https://creativecommons.org) - Licenses for all kind of open content including publications, educational resources and research data. Not for computer code. ✨
 * [Choose an open source license](https://choosealicense.com/) - Pick a suitable license for your code ✨
 
 ### Persistent Identifier
@@ -96,6 +97,8 @@ Contributions are very welcome. Please check the [Contribution Guidelines](contr
 * [Recommended Tools by the RDA](https://www.rd-alliance.org/group/preservation-tools-techniques-and-policies/wiki/tools-available-researchers-0) - The Research Data Alliance lists a number of tools similar to this overview.
 * [Awesome Research List on Github](https://github.com/emptymalei/awesome-research) - An overview of useful tools for (open) research in a similar fashion to this list.
 * [Overleaf](https://www.overleaf.com) - Create papers in LaTeX with colleagues online. ✨
+* [ European Open Science Cloud (EOSC)](https://eosc-portal.eu/) - Newly launched portal of the European Open Science Cloud with free-of-charge access to various services. Services are accessible via an institutional login or various login provides (ORCID, Github, etc.).
+  - [B2Drop](https://b2drop.eudat.eu) - 
 
 ## More 
 * There is a separate awesome list specifically about Citizen Science: [Citizen Science List](https://github.com/dylanrees/citizen-science)
